@@ -6,9 +6,16 @@ Task: Fetch and reach: the robot moves its end-effector to a certain goal positi
 
 
 
-Tools: OpenAi Gym: Toolkit for simulated robotics environments
-       Mujoco: Physics engine for model-based control tasks
-       Stable-baselines3: a set of implementations of RL algorithms
+Tools:
+
+
+OpenAi Gym: Toolkit for simulated robotics environments
+
+
+Mujoco: Physics engine for model-based control tasks
+
+
+Stable-baselines3: a set of implementations of RL algorithms
 
 
 
